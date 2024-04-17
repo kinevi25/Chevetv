@@ -50,7 +50,7 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
 #EXTINF:-1 tvg-logo=&quot;https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png&quot; group-title=&quot;DEPORTES&quot;,ECDF
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140311
 #EXTINF:-1, AFIZZIONADOS
-http://regioplay.xyz/php/SR_REGIO_104023_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
+https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 #EXTINF: -1, TV COSTARRICA
 #EXTINF:-1 group-title=&quot;Honduras x1&quot;,ESPN 4
 http://190.83.116.230:9010/play/a05c/index.m3u8
